@@ -1,0 +1,11 @@
+# ninja log v5
+15	185	7502972821218068	CMakeFiles/funcsin.dir/plugins/funcsin.cpp.obj	6e52fcdedd48c09f
+20	1591	7502972835283461	CMakeFiles/BasicCalculator.dir/BasicCalculator.cpp.obj	9370c690e2b329fb
+6	201	7502972821386572	CMakeFiles/funcdeg.dir/plugins/funcdeg.cpp.obj	e6fecdce507f7b05
+202	614	7502972825224373	funcdeg.dll	9e8abe0216e39a98
+202	614	7502972825224373	funcdeg.lib	9e8abe0216e39a98
+187	617	7502972825268683	funcsin.lib	eb075d8ce64957c5
+187	617	7502972825268683	funcsin.dll	eb075d8ce64957c5
+1617	1948	7502972838640863	BasicCalculator.exe	bd1ad871a5bef50f
+19	2575	7504246677045695	CMakeFiles/BasicCalculator.dir/BasicCalculator.cpp.obj	9370c690e2b329fb
+2576	2988	7504246679772276	BasicCalculator.exe	bd1ad871a5bef50f
