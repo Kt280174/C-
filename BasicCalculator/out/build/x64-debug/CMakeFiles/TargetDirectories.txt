@@ -1,5 +1,0 @@
-C:/Users/DELL/BasicCalculator/out/build/x64-debug/CMakeFiles/funcdeg.dir
-C:/Users/DELL/BasicCalculator/out/build/x64-debug/CMakeFiles/funcsin.dir
-C:/Users/DELL/BasicCalculator/out/build/x64-debug/CMakeFiles/BasicCalculator.dir
-C:/Users/DELL/BasicCalculator/out/build/x64-debug/CMakeFiles/edit_cache.dir
-C:/Users/DELL/BasicCalculator/out/build/x64-debug/CMakeFiles/rebuild_cache.dir

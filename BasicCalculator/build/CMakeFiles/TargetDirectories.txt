@@ -1,5 +1,0 @@
-C:/Users/DELL/BasicCalculator/build/CMakeFiles/funcdeg.dir
-C:/Users/DELL/BasicCalculator/build/CMakeFiles/funcsin.dir
-C:/Users/DELL/BasicCalculator/build/CMakeFiles/BasicCalculator.dir
-C:/Users/DELL/BasicCalculator/build/CMakeFiles/ALL_BUILD.dir
-C:/Users/DELL/BasicCalculator/build/CMakeFiles/ZERO_CHECK.dir
